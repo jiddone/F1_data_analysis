@@ -93,5 +93,8 @@ Le figure sono accompagnate da brevi commenti interpretativi. I grafici sono pro
 
 ## 👨‍💻 Autore
 
-**Gianluca**  
-Studente di AI & Machine Learning.
+📬 Contatti
+Per domande o suggerimenti:
+
+Gianluca Ferrari
+📧 Email: gianlucaferrari2000@gmail.com
